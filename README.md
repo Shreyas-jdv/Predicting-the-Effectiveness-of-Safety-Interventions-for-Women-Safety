@@ -20,5 +20,15 @@ This project aims to predict the effectiveness of various safety interventions f
 
 To run this project, you'll need to install the following Python libraries:
 
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Output
+![Visualization](https://github.com/user-attachments/assets/386275ae-65d3-4bb6-9100-c4c193a0477d)
+![Visualization 2](https://github.com/user-attachments/assets/9e8efdbe-83d3-4d10-b8d4-74189208cf9c)
+![Visualization 3](https://github.com/user-attachments/assets/b742deb7-f9ee-46bb-ba00-4bf1d18fe93c)
+![Visualization 4](https://github.com/user-attachments/assets/c1d9c9d4-50c8-434b-91b4-823dcd86c999)
+![Visualization 6](https://github.com/user-attachments/assets/03f9ac52-2db5-469a-b160-0a3abe7e91d1)
